@@ -9,13 +9,13 @@ mayor2=-1
 mayor=-1
 nombre=""
 x=input("ingrese nombre: ")
-y=int(input("ingrese la edad aweonao: "))
+y=int(input("ingrese la edad : "))
 while y>mayor:
     y=mayor
     nombre=x
 while y<mayor:
     print("ingrese edad valida")
-    f=int(input("ingrese la edad aweonao: "))
+    f=int(input("ingrese la edad : "))
     if f>mayor:
         y=f
     nombre=x
@@ -27,7 +27,7 @@ while g>mayor2:
     nombre=r
 while g<mayor2:
     print("ingrese edad valida")
-    d=int(input("ingrese la edad aweonao: "))
+    d=int(input("ingrese la edad : "))
     if d>mayor2:
         g=d
     nombre=r
