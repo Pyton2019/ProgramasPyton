@@ -1,0 +1,13 @@
+antofagasta,3
+maria,23
+pedro,45
+ricardo,65
+calama,2
+italo,24
+sebastian,21
+la serena,5
+alvaro,19
+teresa,34
+guillermo,56
+sofia,29
+monica,33

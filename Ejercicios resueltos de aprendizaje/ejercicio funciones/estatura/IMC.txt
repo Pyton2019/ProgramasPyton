@@ -1,0 +1,4 @@
+Juan,1.80,80
+Francisca,1.89,70
+Pedro,1.82,95
+Maria,1.9,58.7

@@ -1,0 +1,10 @@
+1A,hass,19000,30,4,True
+2B,edranol,20000,50,3,True
+3C,hass,9000,20,2,False
+4D,negra de la cruz,39000,10,6,True
+5E,edranol,17000,18,4,False
+6F,negra de la cruz,8900,14,2,True
+7G,negra de la cruz,31900,17,5,True
+8H,hass,20000,11,3,False
+9I,edranol,35000,18,7,True
+0K,edranol,43000,55,8,True
